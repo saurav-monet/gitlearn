@@ -4,3 +4,4 @@ Lets start the tutorial.
 
 Maths
 Physics
+Chemistry
